@@ -1,4 +1,4 @@
-# 🔢 Rename Batch
+#                         | Rename Batch |
 
 Утилита для массового переименования файлов с автоматической нумерацией.
 
@@ -10,7 +10,7 @@
 
 ## Установка
 pip install -r requirements.txt
-python assets/main.py
+python assets/main.py ( либо запустите уже готовый .exe файл)
 
 ## Автор
 - **femboychiklove**
